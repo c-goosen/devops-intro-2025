@@ -1,7 +1,7 @@
 # devops-intro-2025
 Dev, ML repo intro
 
-# Requi requirements
+# Requirements
 Conda / miniconda
 pip
 
